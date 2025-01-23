@@ -1,1 +1,1 @@
-# how-to-build-tenent-app-with-laravel
+# How to build tenent app with laravel
